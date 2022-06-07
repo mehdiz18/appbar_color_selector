@@ -1,4 +1,4 @@
-# colors
+# appbar_color_selector
 
 A new Flutter project.
 
